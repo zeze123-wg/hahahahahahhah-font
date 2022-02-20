@@ -1,0 +1,35 @@
+.some{
+    background-color: aqua;
+    font-size:24px;
+    color: blue;
+}
+body{
+    background-color: chartreuse;
+
+}
+.soome{
+    color: rgb(20, 33, 220);
+    font-size:15px;
+}
+.line{
+    background-color: darkblue;
+    height:2px;
+    width:100%;
+}
+.foot{
+    bottom:0;
+    height:30px;
+    width:100%;
+    background-color: darkblue;
+    position: fixed;
+    color:darkgray;
+    text-align: center;
+
+}
+canvas{
+    border-radius:30px;
+    border-width:5px;
+    background-color:cornsilk;
+    border-color: darkblue;
+    border-style: dashed;
+}
